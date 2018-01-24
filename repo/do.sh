@@ -11,6 +11,7 @@ gzip -c9 Packages > Packages.gz
 bzip2 -c9 Packages > Packages.bz2
 
 #To push all to host:
+cd ..
 git add -A
 git commit -m "Repo"
 git push -u origin master
