@@ -1,8 +1,8 @@
-Origin: Neo's repo
-Label: Neo's repo
+Origin: H6nry's repo
+Label: H6nry's repo
 Suite: stable
 Version: 1.0
-Codename: neorepo
+Codename: h6nryrepo
 Architectures: iphoneos-arm
 Components: main
-Description: Neo's Cydia Repository
+Description: H6nry's Cydia Repository
